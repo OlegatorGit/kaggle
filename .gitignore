@@ -1,0 +1,10 @@
+#System
+.DS_Store
+
+#Jupyter
+.ipynb_checkpoints/
+
+#Datasets
+kaggle_startups_sample_submit_28062024.csv
+kaggle_startups_test_28062024.csv
+kaggle_startups_train_28062024.csv
